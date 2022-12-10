@@ -121,7 +121,7 @@ width: 800px;
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/07/15 防災マニュアル !!!</marquee></span></h1>	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/11/26 防災マニュアル !!!</marquee></span></h1>	
 	
 
 <a href="20221208_002.JPG" data-lightbox="abc"><img src="20221208_002.JPG" alt="サンプル画像" width="900" /></a>
