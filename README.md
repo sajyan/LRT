@@ -127,7 +127,12 @@ width: 800px;
 <a href="20221208_002.JPG" data-lightbox="abc"><img src="20221208_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221208_003.JPG" data-lightbox="abc"><img src="20221208_003.JPG" alt="サンプル画像" width="900" /></a>
 
-
+<p>要点がわかる1分編</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aes0Y9S9jYk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<p>詳しくわかる6分編</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFobRIVXjrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 <!--本体はここまで-->
 
 
