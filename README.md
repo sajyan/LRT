@@ -133,6 +133,8 @@ width: 800px;
 <p>詳しくわかる6分編</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fFobRIVXjrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<p>U字工事がLRTを紹介！</p>	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdTb-WtER70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br><br><br>
 
 <a href="20221208_004.JPG" data-lightbox="abc"><img src="20221208_004.JPG" alt="サンプル画像" width="900" /></a>
